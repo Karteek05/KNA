@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "message": "Wheel specification submitted successfully.",
+  "data": {
+    "variation_same_axle": "1 mm",
+    "roller_bearing_width": "45 mm",
+    "id": 11,
+    "variation_same_bogie": "2 mm",
+    "axle_box_housing_bore_dia": "180 mm",
+    "submitted_date": "2025-07-25",
+    "variation_same_coach": "3 mm",
+    "wheel_disc_width": "115 mm",
+    "submitted_by": "Ravi Kumar",
+    "form_number": "WHEEL-2025-001",
+    "wheel_profile": "Standard Profile A",
+    "remarks": "Updated successfully",
+    "tread_diameter_new": "920 mm",
+    "intermediate_wwp": "Yes",
+    "created_at": "2025-07-25T17:21:28",
+    "last_shop_issue_size": "915 mm",
+    "bearing_seat_diameter": "130 mm",
+    "updated_at": null,
+    "condemning_dia": "889 mm",
+    "roller_bearing_outer_dia": "200 mm",
+    "wheel_gauge": "1676 mm",
+    "roller_bearing_bore_dia": "120 mm"
+  }
+}

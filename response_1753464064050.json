@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "message": "Wheel specification submitted successfully.",
+  "data": {
+    "variation_same_axle": "X5",
+    "roller_bearing_width": "X13",
+    "id": 10,
+    "variation_same_bogie": "X6",
+    "axle_box_housing_bore_dia": "X14",
+    "submitted_date": "2025-07-25",
+    "variation_same_coach": "X7",
+    "wheel_disc_width": "X15",
+    "submitted_by": "John Doe",
+    "form_number": "F123",
+    "wheel_profile": "X8",
+    "remarks": "Initial entry",
+    "tread_diameter_new": "X1",
+    "intermediate_wwp": "X9",
+    "created_at": "2025-07-25T17:21:03",
+    "last_shop_issue_size": "X2",
+    "bearing_seat_diameter": "X10",
+    "updated_at": null,
+    "condemning_dia": "X3",
+    "roller_bearing_outer_dia": "X11",
+    "wheel_gauge": "X4",
+    "roller_bearing_bore_dia": "X12"
+  }
+}
